@@ -29,7 +29,7 @@ Seven nodes, four decisions, one graph. Every earlier chapter is a smaller versi
 You need Python 3.13 with [uv](https://docs.astral.sh/uv/), and an [OpenRouter](https://openrouter.ai) key with a few dollars of credit. Node is only needed for the IDE's frontend.
 
 ```bash
-git clone https://github.com/kvsdileep/orion-tutorial.git
+git clone [https://github.com/sarat-coder/AI-Cursor.git]
 cd own-cursor
 uv sync
 cp .env.example .env      # paste your OpenRouter key into .env
